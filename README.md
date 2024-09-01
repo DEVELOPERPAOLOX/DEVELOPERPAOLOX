@@ -1,4 +1,4 @@
- <a href="https://github.com/karim-off"><img src="https://cardivo.vercel.app/api?name=DEVELOPER+PAOLO+X&description=.&image=https://i.ibb.co/yyKxrGZ/IMG-20240830-004336.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=usxr_angelito0&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /></a>
+ <a href="https://github.com/karim-off"><img src="https://cardivo.vercel.app/api?name=DEVELOPER+PAOLO+X&image=https://i.ibb.co/yyKxrGZ/IMG-20240830-004336.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=usxr_angelito0&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 ### ESTADÍSTICAS 🏆
 
