@@ -3,5 +3,5 @@
 
 <p align="center">  Ｍ Ｉ  Ｐ Ｒ Ｏ Ｙ Ｅ Ｃ Ｔ Ｏ ：
 
-<p align="center">
+
 <a href="https://github.com/DEVELOPERPAOLOX/SYSTEM-X.git">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DEVELOPERPAOLOX&repo=SYSTEM-X&theme=algolia&locale=es)</a>
