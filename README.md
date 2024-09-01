@@ -9,7 +9,3 @@
 ### MIS PROYECTOS FAVORITOS 💭
 
 <a href="https://github.com/DEVELOPERPAOLOX/SYSTEM-X.git">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DEVELOPERPAOLOX&repo=SYSTEM-X&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/Angelito-OFC/XiaBot-Pro">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=XiaBot-Pro&theme=algolia&locale=es)</a>
-
-> Powered By Angelito 🐈‍⬛
