@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @DEVELOPERPAOLOX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <a href="https://github.com/karim-off"><img src="https://cardivo.vercel.app/api?name=Mi-perfil&description=Hola+Soy+Angelito+OFC.+Creador+de+Génesis-Bot.&image=https://i.ibb.co/yyKxrGZ/IMG-20240830-004336.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=usxr_angelito0&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
-<!---
-DEVELOPERPAOLOX/DEVELOPERPAOLOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ESTADÍSTICAS 🏆
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelito-OFC&rank_icon=github&theme=algolia&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelito-OFC&theme=algolia&locale=es)](https://github.com/Angelito-OFC)
+![counter](https://komarev.com/ghpvc/?username=Angelito-OFC&style=flat-square&theme=algolia&locale=es)
+
+### MIS PROYECTOS FAVORITOS 💭
+
+<a href="https://github.com/Angelito-OFC/Genesis Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=GenesisBot-MD&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/Angelito-OFC/XiaBot-Pro">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=XiaBot-Pro&theme=algolia&locale=es)</a>
+
+> Powered By Angelito 🐈‍⬛
