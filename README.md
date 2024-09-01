@@ -2,5 +2,5 @@
 
 <p align="center"> 
 <a href="https://github.com/DEVELOPERPAOLOX"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=MI+PROYECTO:;MI+PROYECTO:" height="90px"></a> 
-</p>
+
 <a href="https://github.com/DEVELOPERPAOLOX/SYSTEM-X.git">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DEVELOPERPAOLOX&repo=SYSTEM-X&theme=algolia&locale=es)</a>
